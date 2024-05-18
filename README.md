@@ -3,7 +3,7 @@
 原创地址：https://v2rayssr.com/acme-cf.html
 
 
-![image](https://github.com/V2RaySSR/Trojan_panel_web/raw/master/image.png)
+![image](https://github.com/V2RaySSR/acme-cf/blob/main/Shell.png)
 
 
  # 脚本介绍
