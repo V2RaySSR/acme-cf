@@ -19,6 +19,10 @@
 bash <(curl -Ls https://raw.githubusercontent.com/V2RaySSR/acme-cf/main/acme.sh)
 ```
 
+```bash
+bash <(curl -Ls https://v2rayssr.com/tool/acme.sh)  # 免富强地址
+```
+
  # 相关文章及视频
 
 一键自动申请SSL证书，Cloudflare API 验证版！需要域名托管CF！：https://v2rayssr.com/acme-cf.html
